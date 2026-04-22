@@ -1,0 +1,17 @@
+{
+  "source_channel": "@source_channel",
+  "target_channels": [
+    "@target_channel_one",
+    "@target_channel_two"
+  ],
+  "replacements": [
+    {
+      "from": "old brand",
+      "to": "new brand"
+    }
+  ],
+  "stop_words": [
+    "remove-me"
+  ],
+  "use_ai_rewrite": true
+}
